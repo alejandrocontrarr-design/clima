@@ -16,4 +16,4 @@ Se muestra un mensaje personalizado de error.
 
 Al recargar o volver a abrir la página:
 
-La app carga automáticamente la última ciudad guardada y muestra su clima.
+La app carga automáticamente la última ciudad guardada y muestra su clima
